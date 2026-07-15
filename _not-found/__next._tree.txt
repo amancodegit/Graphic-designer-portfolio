@@ -1,2 +1,2 @@
-:HL["/Graphic-designer-portfolio/_next/static/chunks/21ibzm7944m1x.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ov6EnC7EekNZU-MIzcCVi"}
+:HL["/Graphic-designer-portfolio/_next/static/chunks/25q_9zmdmeam7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"dPnJEeycC2tlUcZ71h-j1"}
